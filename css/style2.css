@@ -5,6 +5,13 @@ header {
   background-color: #4ea1ff;
 }
 
+main,
+footer {
+  max-width: 1080px;
+  padding: auto;
+  margin: auto;
+}
+
 header img {
   height: 100px;
   padding-top: 60px;
