@@ -8,3 +8,20 @@ header img {
   height: 100px;
   padding-top: 60px;
 }
+
+h1 {
+  margin-bottom: 0px;
+}
+
+a {
+  font-style: normal;
+  text-decoration: none;
+}
+
+div p {
+  margin-top: 0px;
+}
+
+.small_text {
+  font-size: 12px;
+}
