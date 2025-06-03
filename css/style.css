@@ -33,3 +33,20 @@ span {
 ul {
   padding-left: 16px;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  color: #fff;
+  background-color: #21a9e1;
+}
+
+.shots {
+  background-color: #b1e6f2;
+}
+
+.w_50 {
+  width: 50%;
+}
