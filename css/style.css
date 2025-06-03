@@ -25,3 +25,11 @@ div p {
 .small_text {
   font-size: 12px;
 }
+
+span {
+  background-color: yellow;
+}
+
+ul {
+  padding-left: 16px;
+}
