@@ -14,12 +14,17 @@ h1 {
 }
 
 a {
+  color: #21a9e1;
   font-style: normal;
   text-decoration: none;
 }
 
 div p {
   margin-top: 0px;
+}
+
+.text_grey {
+  color: grey;
 }
 
 .small_text {
@@ -49,4 +54,26 @@ th {
 
 .w_50 {
   width: 50%;
+}
+
+footer div {
+  width: 200px;
+  height: 134px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0px;
+}
+
+#Monitor {
+  background-image: url(../img/monitor.jpg);
+}
+
+#grafico {
+  background-image: url(../img/graph.jpg);
+}
+
+h4 {
+  color: #fff;
+  padding: 10px;
+  margin-top: 5px;
 }
